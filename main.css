@@ -15,7 +15,7 @@ code {
   color: SpringGreen;
 }
 
-li + li {
+ol > li {
   color: white;
   background-color: black;
 }
