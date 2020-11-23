@@ -2,3 +2,8 @@
   color: #53b8bf;
   font-family: sans-serif;
 }
+
+code {
+  color: red;
+  font-family: monospace;
+}
